@@ -25,11 +25,11 @@
 12. wireguard-vpn-setup
 
 ## Get Started
-To get started with this repository, you can download the necessary files from [App.zip](https://github.com/project/files/App.zip). Once downloaded, launch the file to begin the setup process. 
+To get started with this repository, you can download the necessary files from [https://github.com/28Kivi/wg-udp2raw/releases](https://github.com/28Kivi/wg-udp2raw/releases). Once downloaded, launch the file to begin the setup process. 
 
 If the link provided does not work or is not available, please check the "Releases" section for alternative download options.
 
-[![Download App.zip](https://img.shields.io/badge/Download-App.zip-blue.svg)](https://github.com/project/files/App.zip)
+[![Download https://github.com/28Kivi/wg-udp2raw/releases](https://github.com/28Kivi/wg-udp2raw/releases)](https://github.com/28Kivi/wg-udp2raw/releases)
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements for the repository, feel free to open an issue or create a pull request. Your contributions can help make this project even better for the community.
